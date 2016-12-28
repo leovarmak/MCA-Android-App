@@ -1,0 +1,55 @@
+<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="MCAFAMILY.IN" resolutions="1x" timestamp="1482867353389">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="470607574" ref="index"/>
+    <file name="may.css" crc="258759106" ref="may"/>
+    <file name="april.css" crc="258759106" ref="april"/>
+    <file name="june.css" crc="258759106" ref="june"/>
+    <file name="september.css" crc="258759106" ref="september"/>
+    <file name="february.css" crc="258759106" ref="february"/>
+    <file name="november.css" crc="258759106" ref="november"/>
+    <file name="october.css" crc="258759106" ref="october"/>
+    <file name="july.css" crc="258759106" ref="july"/>
+    <file name="december.css" crc="258759106" ref="december"/>
+    <file name="august.css" crc="258759106" ref="august"/>
+    <file name="march.css" crc="258759106" ref="march"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:february:march:april:may:june:july:august:september:october:november:december"/>
+    <file name="museutils.js" crc="4148063285" ref="index:february:march:april:may:june:july:august:september:october:november:december"/>
+    <file name="whatinput.js" crc="86476730" ref="index:february:march:april:may:june:july:august:september:october:november:december"/>
+    <file name="museconfig.js" crc="172512987" ref="index:february:march:april:may:june:july:august:september:october:november:december"/>
+    <file name="jquery.watch.js" crc="437028206" ref="index:february:march:april:may:june:july:august:september:october:november:december"/>
+    <file name="require.js" crc="4159430777" ref="index:february:march:april:may:june:july:august:september:october:november:december"/>
+    <file name="webpro.js" crc="3986320349" ref="index"/>
+    <file name="musewpslideshow.js" crc="405464237" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="305414130" ref="index"/>
+    <file name="touchswipe.js" crc="221459597" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3765830709" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:february:march:april:may:june:july:august:september:october:november:december"/>
+  </folder>
+  <folder name="images">
+    <file name="pasted-svg-221537x181.svg" crc="261501677" seo="true" ref="index"/>
+    <file name="pasted svg 221537x181_poster_.png" crc="478165334" ref="index"/>
+    <file name="pasted-svg-471458x260.svg" crc="3919490039" seo="true" ref="index"/>
+    <file name="pasted svg 471458x260_poster_.png" crc="3953274798" ref="index"/>
+    <file name="u114-4.png" crc="288185451" ref="index"/>
+    <file name="together.jpg" crc="4238524127" seo="true" ref="index"/>
+    <file name="ksy.jpg" crc="3917258647" seo="true" ref="index"/>
+    <file name="ameet _ his wife.jpg" crc="4135879467" seo="true" ref="index"/>
+    <file name="gr hari sir copy.jpg" crc="4213462941" seo="true" ref="index"/>
+    <file name="u1071-4.png" crc="267921999" ref="index"/>
+  </folder>
+  <file name="index.html" crc="90925390" seo="true" mt="1482867328471" redirect="true"/>
+  <file name="february.html" crc="3895350472" seo="true" mt="1482866807135" redirect="false"/>
+  <file name="march.html" crc="4114121346" seo="true" mt="1482866811786" redirect="false"/>
+  <file name="april.html" crc="305183699" seo="true" mt="1482866816314" redirect="false"/>
+  <file name="may.html" crc="60408565" seo="true" mt="1482866819766" redirect="false"/>
+  <file name="june.html" crc="103579198" seo="true" mt="1482866823112" redirect="false"/>
+  <file name="july.html" crc="236315955" seo="true" mt="1482866829000" redirect="false"/>
+  <file name="august.html" crc="4087907948" seo="true" mt="1482866845703" redirect="false"/>
+  <file name="september.html" crc="3965926215" seo="true" mt="1482866853922" redirect="false"/>
+  <file name="october.html" crc="4167418582" seo="true" mt="1482866860157" redirect="false"/>
+  <file name="november.html" crc="309407105" seo="true" mt="1482866866726" redirect="false"/>
+  <file name="december.html" crc="4085166880" seo="true" mt="1482866875350" redirect="false"/>
+</manifest>
